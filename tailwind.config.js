@@ -2,7 +2,10 @@
 module.exports = {
     content: ["./src/**/*.{html,js}"],
     theme: {
-        extend: {},
+        extend: {
+            clifford: '#da373d',
+
+        },
     },
     plugins
     +-*********: [],
